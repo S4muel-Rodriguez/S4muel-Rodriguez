@@ -81,33 +81,7 @@
   </a>
 </div>
 
-<h4>Pentesting Tools I Use or Want to Learn</h4>
-<div align="center" class="icons-social" style="margin-left: 10px;">
-  <a style="margin-left: 10px;" target="_blank" href="https://www.metasploit.com/">
-    <img src="https://img.icons8.com/color/48/000000/metasploit.png" alt="Metasploit">
-  </a>
-  <a style="margin-left: 10px;" target="_blank" href="https://nmap.org/">
-    <img src="https://img.icons8.com/color/48/000000/nmap.png" alt="Nmap">
-  </a>
-  <a style="margin-left: 10px;" target="_blank" href="https://portswigger.net/burp">
-    <img src="https://img.icons8.com/color/48/000000/burp-suite.png" alt="Burp Suite">
-  </a>
-  <a style="margin-left: 10px;" target="_blank" href="https://www.wireshark.org/">
-    <img src="https://img.icons8.com/color/48/000000/wireshark.png" alt="Wireshark">
-  </a>
-  <a style="margin-left: 10px;" target="_blank" href="https://www.maltego.com/">
-    <img src="https://img.icons8.com/color/48/000000/maltego.png" alt="Maltego">
-  </a>
-  <a style="margin-left: 10px;" target="_blank" href="https://github.com/derv82/wifite2">
-    <img src="https://img.icons8.com/color/48/000000/wifi.png" alt="Wifite">
-  </a>
-  <a style="margin-left: 10px;" target="_blank" href="https://tools.kali.org/social-engineering/set">
-    <img src="https://img.icons8.com/color/48/000000/setoolkit.png" alt="SET Toolkit">
-  </a>
-  <a style="margin-left: 10px;" target="_blank" href="https://github.com/beefproject/beef">
-    <img src="https://img.icons8.com/color/48/000000/beef.png" alt="BeEF">
-  </a>
-</div>
+
 
 
 
