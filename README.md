@@ -81,6 +81,33 @@
   </a>
 </div>
 
+<h4>Pentesting Tools I Use or Want to Learn</h4>
+<div align="center" class="icons-social" style="margin-left: 10px;">
+  <a style="margin-left: 10px;" target="_blank" href="https://www.metasploit.com/">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-metasploit-a-computer-security-project-for-developing-testing-and-exploiting-code-logo-color-tal-revivo.png" alt="Metasploit">
+  </a>
+  <a style="margin-left: 10px;" target="_blank" href="https://nmap.org/">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-nmap-a-free-and-open-source-network-vulnerability-scanner-logo-color-tal-revivo.png" alt="Nmap">
+  </a>
+  <a style="margin-left: 10px;" target="_blank" href="https://portswigger.net/burp">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-burp-suite-web-application-security-testing-framework-logo-color-tal-revivo.png" alt="Burp Suite">
+  </a>
+  <a style="margin-left: 10px;" target="_blank" href="https://www.wireshark.org/">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-wireshark-a-free-and-open-source-packet-analyzer-logo-color-tal-revivo.png" alt="Wireshark">
+  </a>
+  <a style="margin-left: 10px;" target="_blank" href="https://www.maltego.com/">
+    <img src="https://img.icons8.com/color/48/000000/maltego.png" alt="Maltego">
+  </a>
+  <a style="margin-left: 10px;" target="_blank" href="https://github.com/derv82/wifite2">
+    <img src="https://img.icons8.com/color/48/000000/wifi.png" alt="Wifite">
+  </a>
+  <a style="margin-left: 10px;" target="_blank" href="https://tools.kali.org/social-engineering/set">
+    <img src="https://img.icons8.com/fluency/48/000000/social-engineering.png" alt="SET Toolkit">
+  </a>
+  <a style="margin-left: 10px;" target="_blank" href="https://github.com/beefproject/beef">
+    <img src="https://img.icons8.com/external-filled-outline-geotatah/48/000000/external-beef-butchery-filled-outline-filled-outline-geotatah.png" alt="BeEF">
+  </a>
+</div>
 
 
 
