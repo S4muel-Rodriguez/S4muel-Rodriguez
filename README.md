@@ -67,7 +67,20 @@
   <a style="margin-left: 10px;" target="_blank" href="https://code.visualstudio.com/">
     <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code">
   </a>
+  <a style="margin-left: 10px;" target="_blank" href="https://www.microsoft.com/en-us/windows">
+    <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows">
+  </a>
+  <a style="margin-left: 10px;" target="_blank" href="https://www.linux.org/">
+    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux">
+  </a>
+  <a style="margin-left: 10px;" target="_blank" href="https://www.postman.com/">
+    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman">
+  </a>
+  <a style="margin-left: 10px;" target="_blank" href="https://www.docker.com/">
+    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker">
+  </a>
 </div>
+
 
 
 ----
