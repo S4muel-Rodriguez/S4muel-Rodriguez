@@ -85,7 +85,7 @@
 <div align="center" class="icons-social" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
   <!-- Metasploit -->
   <a href="https://www.metasploit.com/" target="_blank" style="text-decoration: none; text-align: center; color: inherit;">
-    <img src="https://www.kali.org/tools/metasploit-framework/metasploit-framework-icon.png" alt="Metasploit" width="40" style="display: block; margin: 0 auto;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Metasploit-logo.png" alt="Metasploit" width="40" style="display: block; margin: 0 auto;">
     <span>Metasploit</span>
   </a>
 
@@ -97,7 +97,7 @@
 
   <!-- Burp Suite -->
   <a href="https://portswigger.net/burp" target="_blank" style="text-decoration: none; text-align: center; color: inherit;">
-    <img src="https://static.portswigger.net/images/logos/burp-suite-logo.svg" alt="Burp Suite" width="40" style="display: block; margin: 0 auto;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Burp_Suite_Logo.png" alt="Burp Suite" width="40" style="display: block; margin: 0 auto;">
     <span>Burp Suite</span>
   </a>
 
@@ -121,17 +121,16 @@
 
   <!-- SET Toolkit -->
   <a href="https://tools.kali.org/social-engineering/set" target="_blank" style="text-decoration: none; text-align: center; color: inherit;">
-    <img src="https://www.kali.org/tools/set/social-engineering-toolkit-icon.png" alt="SET Toolkit" width="40" style="display: block; margin: 0 auto;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Social-Engineering-Toolkit.png" alt="SET Toolkit" width="40" style="display: block; margin: 0 auto;">
     <span>SET Toolkit</span>
   </a>
 
   <!-- BeEF -->
   <a href="https://github.com/beefproject/beef" target="_blank" style="text-decoration: none; text-align: center; color: inherit;">
-    <img src="https://beefproject.com/images/beef.png" alt="BeEF" width="40" style="display: block; margin: 0 auto;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/BeEF_logo.png" alt="BeEF" width="40" style="display: block; margin: 0 auto;">
     <span>BeEF</span>
   </a>
 </div>
-
 
 
 
