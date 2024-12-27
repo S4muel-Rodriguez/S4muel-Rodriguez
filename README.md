@@ -81,56 +81,6 @@
   </a>
 </div>
 
-<h4 align="center">Pentesting Tools I Use or Want to Learn</h4>
-<div align="center" class="icons-social" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
-  <!-- Metasploit -->
-  <a href="https://www.metasploit.com/" target="_blank" style="text-decoration: none; text-align: center; color: inherit;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Metasploit-logo.png" alt="Metasploit" width="40" style="display: block; margin: 0 auto;">
-    <span>Metasploit</span>
-  </a>
-
-  <!-- Nmap -->
-  <a href="https://nmap.org/" target="_blank" style="text-decoration: none; text-align: center; color: inherit;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Nmap_logo.svg" alt="Nmap" width="40" style="display: block; margin: 0 auto;">
-    <span>Nmap</span>
-  </a>
-
-  <!-- Burp Suite -->
-  <a href="https://portswigger.net/burp" target="_blank" style="text-decoration: none; text-align: center; color: inherit;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Burp_Suite_Logo.png" alt="Burp Suite" width="40" style="display: block; margin: 0 auto;">
-    <span>Burp Suite</span>
-  </a>
-
-  <!-- Wireshark -->
-  <a href="https://www.wireshark.org/" target="_blank" style="text-decoration: none; text-align: center; color: inherit;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Logo.svg" alt="Wireshark" width="40" style="display: block; margin: 0 auto;">
-    <span>Wireshark</span>
-  </a>
-
-  <!-- Maltego -->
-  <a href="https://www.maltego.com/" target="_blank" style="text-decoration: none; text-align: center; color: inherit;">
-    <img src="https://www.maltego.com/wp-content/uploads/2021/02/maltego-logo-white-blue.svg" alt="Maltego" width="40" style="display: block; margin: 0 auto;">
-    <span>Maltego</span>
-  </a>
-
-  <!-- Wifite -->
-  <a href="https://github.com/derv82/wifite2" target="_blank" style="text-decoration: none; text-align: center; color: inherit;">
-    <img src="https://img.icons8.com/color/48/000000/wifi.png" alt="Wifite" width="40" style="display: block; margin: 0 auto;">
-    <span>Wifite</span>
-  </a>
-
-  <!-- SET Toolkit -->
-  <a href="https://tools.kali.org/social-engineering/set" target="_blank" style="text-decoration: none; text-align: center; color: inherit;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Social-Engineering-Toolkit.png" alt="SET Toolkit" width="40" style="display: block; margin: 0 auto;">
-    <span>SET Toolkit</span>
-  </a>
-
-  <!-- BeEF -->
-  <a href="https://github.com/beefproject/beef" target="_blank" style="text-decoration: none; text-align: center; color: inherit;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/BeEF_logo.png" alt="BeEF" width="40" style="display: block; margin: 0 auto;">
-    <span>BeEF</span>
-  </a>
-</div>
 
 
 
