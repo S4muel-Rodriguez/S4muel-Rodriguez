@@ -35,12 +35,7 @@
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 ----
-<p align= "center">
-  <img height= "150" src="https://github.com/S4muel-Rodriguez-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
 
-
-  <img height= "150" src="https://github.com/S4muel-Rodriguez-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
-</p>	
 	
 <div>
   <p align="center">
