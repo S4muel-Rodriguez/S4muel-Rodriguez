@@ -81,41 +81,57 @@
   </a>
 </div>
 
-<h4>Pentesting Tools I Use or Want to Learn</h4>
-<div align="center" class="icons-social" style="margin-left: 10px;">
-  <a style="margin-left: 15px;" target="_blank" href="https://www.metasploit.com/">
-    <img src="https://www.kali.org/tools/metasploit-framework/metasploit-framework-icon.png" alt="Metasploit" width="40">
+<h4 align="center">Pentesting Tools I Use or Want to Learn</h4>
+<div align="center" class="icons-social" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
+  <!-- Metasploit -->
+  <a href="https://www.metasploit.com/" target="_blank" style="text-decoration: none; text-align: center; color: inherit;">
+    <img src="https://www.kali.org/tools/metasploit-framework/metasploit-framework-icon.png" alt="Metasploit" width="40" style="display: block; margin: 0 auto;">
     <span>Metasploit</span>
   </a>
-  <a style="margin-left: 15px;" target="_blank" href="https://nmap.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Nmap_logo.svg" alt="Nmap" width="40">
+
+  <!-- Nmap -->
+  <a href="https://nmap.org/" target="_blank" style="text-decoration: none; text-align: center; color: inherit;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Nmap_logo.svg" alt="Nmap" width="40" style="display: block; margin: 0 auto;">
     <span>Nmap</span>
   </a>
-  <a style="margin-left: 15px;" target="_blank" href="https://portswigger.net/burp">
-    <img src="https://static.portswigger.net/images/logos/burp-suite-logo.svg" alt="Burp Suite" width="40">
+
+  <!-- Burp Suite -->
+  <a href="https://portswigger.net/burp" target="_blank" style="text-decoration: none; text-align: center; color: inherit;">
+    <img src="https://static.portswigger.net/images/logos/burp-suite-logo.svg" alt="Burp Suite" width="40" style="display: block; margin: 0 auto;">
     <span>Burp Suite</span>
   </a>
-  <a style="margin-left: 15px;" target="_blank" href="https://www.wireshark.org/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Logo.svg" alt="Wireshark" width="40">
+
+  <!-- Wireshark -->
+  <a href="https://www.wireshark.org/" target="_blank" style="text-decoration: none; text-align: center; color: inherit;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Logo.svg" alt="Wireshark" width="40" style="display: block; margin: 0 auto;">
     <span>Wireshark</span>
   </a>
-  <a style="margin-left: 15px;" target="_blank" href="https://www.maltego.com/">
-    <img src="https://www.maltego.com/wp-content/uploads/2021/02/maltego-logo-white-blue.svg" alt="Maltego" width="40">
+
+  <!-- Maltego -->
+  <a href="https://www.maltego.com/" target="_blank" style="text-decoration: none; text-align: center; color: inherit;">
+    <img src="https://www.maltego.com/wp-content/uploads/2021/02/maltego-logo-white-blue.svg" alt="Maltego" width="40" style="display: block; margin: 0 auto;">
     <span>Maltego</span>
   </a>
-  <a style="margin-left: 15px;" target="_blank" href="https://github.com/derv82/wifite2">
-    <img src="https://img.icons8.com/color/48/000000/wifi.png" alt="Wifite" width="40">
+
+  <!-- Wifite -->
+  <a href="https://github.com/derv82/wifite2" target="_blank" style="text-decoration: none; text-align: center; color: inherit;">
+    <img src="https://img.icons8.com/color/48/000000/wifi.png" alt="Wifite" width="40" style="display: block; margin: 0 auto;">
     <span>Wifite</span>
   </a>
-  <a style="margin-left: 15px;" target="_blank" href="https://tools.kali.org/social-engineering/set">
-    <img src="https://www.kali.org/tools/set/social-engineering-toolkit-icon.png" alt="SET Toolkit" width="40">
+
+  <!-- SET Toolkit -->
+  <a href="https://tools.kali.org/social-engineering/set" target="_blank" style="text-decoration: none; text-align: center; color: inherit;">
+    <img src="https://www.kali.org/tools/set/social-engineering-toolkit-icon.png" alt="SET Toolkit" width="40" style="display: block; margin: 0 auto;">
     <span>SET Toolkit</span>
   </a>
-  <a style="margin-left: 15px;" target="_blank" href="https://github.com/beefproject/beef">
-    <img src="https://beefproject.com/images/beef.png" alt="BeEF" width="40">
+
+  <!-- BeEF -->
+  <a href="https://github.com/beefproject/beef" target="_blank" style="text-decoration: none; text-align: center; color: inherit;">
+    <img src="https://beefproject.com/images/beef.png" alt="BeEF" width="40" style="display: block; margin: 0 auto;">
     <span>BeEF</span>
   </a>
 </div>
+
 
 
 
