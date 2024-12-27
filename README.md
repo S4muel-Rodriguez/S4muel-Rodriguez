@@ -35,15 +35,40 @@
 <details><summary><h3>💻 GitHub Profile Stats</h3></summary>
 
 <h3>My GitHub Stats</h3>
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif" >
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
 <br>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anii693&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=S4muel-Rodriguez&show_icons=true&theme=dark&locale=en&layout=compact" alt="S4muel-Rodriguez" /></p>
 
 <br><br><br><br><br><br><br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anii693&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=S4muel-Rodriguez&show_icons=true&theme=dark&locale=en" alt="S4muel-Rodriguez" /></p>
 <br><br><br><br><br><br><br><br><br><br>
+
+<h4>Technologies I Work With or Want to Learn</h4>
+<div align="center" class="icons-social" style="margin-left: 10px;">
+  <a style="margin-left: 10px;" target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript">
+  </a>
+  <a style="margin-left: 10px;" target="_blank" href="https://nodejs.org/">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">
+  </a>
+  <a style="margin-left: 10px;" target="_blank" href="https://www.python.org/">
+    <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python">
+  </a>
+  <a style="margin-left: 10px;" target="_blank" href="https://www.djangoproject.com/">
+    <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django">
+  </a>
+  <a style="margin-left: 10px;" target="_blank" href="https://git-scm.com/">
+    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git">
+  </a>
+  <a style="margin-left: 10px;" target="_blank" href="https://github.com/">
+    <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub">
+  </a>
+  <a style="margin-left: 10px;" target="_blank" href="https://code.visualstudio.com/">
+    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code">
+  </a>
+</div>
+
 
 ----
 
