@@ -3,16 +3,14 @@
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working in <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
+- 💻🌐 I’m web development student <a href="https://phoenix.tech/griffyn/" target="blank">Griffyn Robotech Private Limited</a>
 
-- 🌱 I’m currently Working on Mobile App(React-Native)
+- 👨🏻‍💻🛡️ I like cybersecurity and ethical hacking
 
-- 🤝 I’m available for freelancing.
+- 💼🤝 I am available to work and learn new technologies and work methodologies
 
-- 🌱 I’m currently learning Swift && SwiftUI <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
+- 🖧🕵️‍♂️ I am currently learning backend technologies and penetration tools <a href="https://github.com/100rabhcsmc/100DaysOfSwift" target="blank">100DaysOfSwift</a>
 
-- 📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc)
+- 💬📲 this is my social network instagram [https://www.instagram.com/s4muel_r0driguez/].(https://www.instagram.com/s4muel_r0driguez/)
 
-- 💬 Ask me about **Reactjs & React-Native**
-
-- 📫 How to reach me **saurabhchavan052@gmail.com**
+- ✉️📫 How to reach me **samurodriguez565@gmail.com**
