@@ -54,7 +54,7 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/saurabhmchavan/">
+        <a style="margin-left: 10px;"  target="_blank" href="linkedin.com/in/samu-rodríguez-77b24325a">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/S4muel-Rodriguez">
 	   <a style="margin-left: 10px;" target="_blank" href="https://dev.to/100rabhcsmc">
