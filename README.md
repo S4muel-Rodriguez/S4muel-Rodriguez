@@ -82,32 +82,40 @@
 </div>
 
 <h4>Pentesting Tools I Use or Want to Learn</h4>
-<ul style="list-style-type: none; text-align: center; padding: 0;">
-  <li style="margin: 5px;">
-    <a target="_blank" href="https://www.metasploit.com/" style="text-decoration: none; color: #0073e6;">Metasploit</a>
-  </li>
-  <li style="margin: 5px;">
-    <a target="_blank" href="https://nmap.org/" style="text-decoration: none; color: #0073e6;">Nmap</a>
-  </li>
-  <li style="margin: 5px;">
-    <a target="_blank" href="https://portswigger.net/burp" style="text-decoration: none; color: #0073e6;">Burp Suite</a>
-  </li>
-  <li style="margin: 5px;">
-    <a target="_blank" href="https://www.wireshark.org/" style="text-decoration: none; color: #0073e6;">Wireshark</a>
-  </li>
-  <li style="margin: 5px;">
-    <a target="_blank" href="https://www.maltego.com/" style="text-decoration: none; color: #0073e6;">Maltego</a>
-  </li>
-  <li style="margin: 5px;">
-    <a target="_blank" href="https://github.com/derv82/wifite2" style="text-decoration: none; color: #0073e6;">Wifite</a>
-  </li>
-  <li style="margin: 5px;">
-    <a target="_blank" href="https://tools.kali.org/social-engineering/set" style="text-decoration: none; color: #0073e6;">SET Toolkit</a>
-  </li>
-  <li style="margin: 5px;">
-    <a target="_blank" href="https://github.com/beefproject/beef" style="text-decoration: none; color: #0073e6;">BeEF</a>
-  </li>
-</ul>
+<div align="center" class="icons-social" style="margin-left: 10px;">
+  <a style="margin-left: 15px;" target="_blank" href="https://www.metasploit.com/">
+    <img src="https://www.kali.org/tools/metasploit-framework/metasploit-framework-icon.png" alt="Metasploit" width="40">
+    <span>Metasploit</span>
+  </a>
+  <a style="margin-left: 15px;" target="_blank" href="https://nmap.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Nmap_logo.svg" alt="Nmap" width="40">
+    <span>Nmap</span>
+  </a>
+  <a style="margin-left: 15px;" target="_blank" href="https://portswigger.net/burp">
+    <img src="https://static.portswigger.net/images/logos/burp-suite-logo.svg" alt="Burp Suite" width="40">
+    <span>Burp Suite</span>
+  </a>
+  <a style="margin-left: 15px;" target="_blank" href="https://www.wireshark.org/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Wireshark_Logo.svg" alt="Wireshark" width="40">
+    <span>Wireshark</span>
+  </a>
+  <a style="margin-left: 15px;" target="_blank" href="https://www.maltego.com/">
+    <img src="https://www.maltego.com/wp-content/uploads/2021/02/maltego-logo-white-blue.svg" alt="Maltego" width="40">
+    <span>Maltego</span>
+  </a>
+  <a style="margin-left: 15px;" target="_blank" href="https://github.com/derv82/wifite2">
+    <img src="https://img.icons8.com/color/48/000000/wifi.png" alt="Wifite" width="40">
+    <span>Wifite</span>
+  </a>
+  <a style="margin-left: 15px;" target="_blank" href="https://tools.kali.org/social-engineering/set">
+    <img src="https://www.kali.org/tools/set/social-engineering-toolkit-icon.png" alt="SET Toolkit" width="40">
+    <span>SET Toolkit</span>
+  </a>
+  <a style="margin-left: 15px;" target="_blank" href="https://github.com/beefproject/beef">
+    <img src="https://beefproject.com/images/beef.png" alt="BeEF" width="40">
+    <span>BeEF</span>
+  </a>
+</div>
 
 
 
