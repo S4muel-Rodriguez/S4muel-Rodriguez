@@ -69,32 +69,43 @@
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker">
   </a>
+
+
+
+
+
+ <!-- Herramientas de Pentesting -->
+  <a href="https://www.metasploit.com/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/hacker.png" alt="Metasploit">
+  </a>
+  <a href="https://nmap.org/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/nmap.png" alt="Nmap">
+  </a>
+  <a href="https://portswigger.net/burp" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/bug.png" alt="Burp Suite">
+  </a>
+  <a href="https://www.kali.org/tools/wifite/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/network.png" alt="Wifite">
+  </a>
+  <a href="https://www.wireshark.org/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/wireshark.png" alt="Wireshark">
+  </a>
+  <a href="https://www.aircrack-ng.org/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/wifi.png" alt="Aircrack-ng">
+  </a>
+  <a href="https://www.paterva.com/web7/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/analysis.png" alt="Maltego">
+  </a>
+  <a href="https://github.com/trustedsec/social-engineer-toolkit" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/social-media.png" alt="SET Toolkit">
+  </a>
+
+
+  
 </div>
 
 
-<h4 align="center"> Pentesting Tools</h4>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
-  <!-- Metasploit -->
-  <img src="https://img.icons8.com/ios-filled/50/000000/hacker.png" alt="Metasploit" width="48">
-  <!-- Nmap -->
-  <img src="https://img.icons8.com/ios-filled/50/000000/nmap.png" alt="Nmap" width="48">
-  <!-- Burp Suite -->
-  <img src="https://img.icons8.com/ios-filled/50/000000/bug.png" alt="Burp Suite" width="48">
-  <!-- Aircrack-ng -->
-  <img src="https://img.icons8.com/ios-filled/50/000000/network.png" alt="Aircrack-ng" width="48">
-  <!-- Wireshark -->
-  <img src="https://img.icons8.com/ios-filled/50/000000/wireshark.png" alt="Wireshark" width="48">
-  <!-- John the Ripper -->
-  <img src="https://img.icons8.com/ios-filled/50/000000/password-reset.png" alt="John the Ripper" width="48">
-  <!-- Hydra -->
-  <img src="https://img.icons8.com/ios-filled/50/000000/lock.png" alt="Hydra" width="48">
-  <!-- Nikto -->
-  <img src="https://img.icons8.com/ios-filled/50/000000/security.png" alt="Nikto" width="48">
-  <!-- Gobuster -->
-  <img src="https://img.icons8.com/ios-filled/50/000000/file-search.png" alt="Gobuster" width="48">
-  <!-- Netcat -->
-  <img src="https://img.icons8.com/ios-filled/50/000000/computer.png" alt="Netcat" width="48">
-</div>
+
 
 
 
