@@ -72,22 +72,40 @@
   </a>
 </div>
 
- <h4 align="center">Herramientas de Pentesting y Hacking Wi-Fi</h4>
-  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
 
-    <a href="https://nmap.org/" target="_blank">
-      <img src="https://www.nmap.org/book/images/nmap-logo.png" alt="Nmap">
-    </a>
-    <a href="https://www.metasploit.com/" target="_blank">
-      <img src="https://www.metasploit.com/assets/img/logo.svg" alt="Metasploit">
-    </a>
-    <a href="https://www.aircrack-ng.org/" target="_blank">
-      <img src="https://www.aircrack-ng.org/images/aircrack-ng-logo.png" alt="Aircrack-ng">
-    </a>
-    <a href="https://wifite.net/" target="_blank">
-      <img src="https://wifite.net/img/wifite-logo.png" alt="Wifite">
-    </a> 
-    </div> 
+<h5 align="center">Top 10 Penetration Testing and Wi-Fi Hacking Tools</h5>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
+  <a href="https://nmap.org/" target="_blank" aria-label="Nmap">
+    <img src="https://www.nmap.org/book/images/nmap-logo.png" alt="Nmap" style="max-width: 150px;">
+  </a>
+  <a href="https://www.metasploit.com/" target="_blank" aria-label="Metasploit">
+    <img src="https://www.metasploit.com/assets/img/logo.svg" alt="Metasploit" style="max-width: 150px;">
+  </a>
+  <a href="https://portswigger.net/burp" target="_blank" aria-label="Burp Suite">
+    <img src="https://portswigger.net/themes/bw-2020/assets/img/logo.png" alt="Burp Suite" style="max-width: 150px;">
+  </a>
+  <a href="https://wireshark.org/" target="_blank" aria-label="Wireshark">
+    <img src="https://wireshark.org/images/wslogo.png" alt="Wireshark" style="max-width: 150px;">
+  </a>
+  <a href="https://www.openwall.com/john/" target="_blank" aria-label="John the Ripper">
+    <img src="https://www.openwall.com/images/john-the-ripper-logo.png" alt="John the Ripper" style="max-width: 150px;">
+  </a>
+  <a href="https://www.aircrack-ng.org/" target="_blank" aria-label="Aircrack-ng">
+    <img src="https://www.aircrack-ng.org/images/aircrack-ng-logo.png" alt="Aircrack-ng" style="max-width: 150px;">
+  </a>
+  <a href="https://wifite.net/" target="_blank" aria-label="Wifite">
+    <img src="https://wifite.net/img/wifite-logo.png" alt="Wifite" style="max-width: 150px;">
+  </a>
+  <a href="https://kismetwireless.net/" target="_blank" aria-label="Kismet">
+    <img src="https://kismetwireless.net/images/kismet-logo.png" alt="Kismet" style="max-width: 150px;">
+  </a>
+  <a href="https://reaver-wps.sourceforge.io/" target="_blank" aria-label="Reaver">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Reaver_logo.svg/220px-Reaver_logo.svg.png" alt="Reaver" style="max-width: 150px;">
+  </a>
+  <a href="https://github.com/fern-wifi/fern-wifi-cracker" target="_blank" aria-label="Fern Wifi Cracker">
+    <img src="https://raw.githubusercontent.com/fern-wifi/fern-wifi-cracker/master/doc/fern-wifi-cracker.png" alt="Fern Wifi Cracker" style="max-width: 150px;">
+  </a>
+</div>
 
 
 
