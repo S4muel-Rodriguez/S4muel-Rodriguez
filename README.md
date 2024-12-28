@@ -71,24 +71,31 @@
   </a>
 </div>
 
-<h5 align="center">Pentesting Tools</h5>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
-  <a href="https://www.kali.org/" target="_blank">
-    <img src="https://www.kali.org/logos/kali-logo.svg" alt="Kali Linux" style="max-width: 150px; max-height: 150px;">
-  </a>
-  <a href="https://wifite.net/" target="_blank">
-    <img src="https://wifite.net/img/wifite-logo.png" alt="Wifite" style="max-width: 150px; max-height: 150px;">
-  </a>
-  <a href="https://www.aircrack-ng.org/" target="_blank">
-    <img src="https://www.aircrack-ng.org/images/aircrack-ng-logo.png" alt="Aircrack-ng" style="max-width: 150px; max-height: 150px;">
-  </a>
-  <a href="https://www.openwall.com/john/" target="_blank">
-    <img src="https://www.openwall.com/images/john-the-ripper-logo.png" alt="John the Ripper" style="max-width: 150px; max-height: 150px;">
-  </a>
-  <a href="https://wireshark.org/" target="_blank">
-    <img src="https://wireshark.org/images/wslogo.png" alt="Wireshark" style="max-width: 150px; max-height: 150px;">
-  </a>
-</div>
+<h4 align="center">Pentesting Tools I Use or Want to Learn</h4>
+<ul style="list-style-type: none; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <!-- Pentesting Tools -->
+  <li>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Metasploit-logo.png" alt="Metasploit" width="48">
+    <p align="center">Metasploit</p>
+  </li>
+  <li>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Nmap_logo.svg" alt="Nmap" width="48">
+    <p align="center">Nmap</p>
+  </li>
+  <li>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Burp_Suite_Logo.png" alt="Burp Suite" width="48">
+    <p align="center">Burp Suite</p>
+  </li>
+  <li>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Social-Engineering-Toolkit.png" alt="SET Toolkit" width="48">
+    <p align="center">SET Toolkit</p>
+  </li>
+  <li>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/BeEF_logo.png" alt="BeEF" width="48">
+    <p align="center">BeEF</p>
+  </li>
+</ul>
+
 
 
 
