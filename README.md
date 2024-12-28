@@ -75,36 +75,27 @@
 <h4 align="center">Pentesting Tools I Use or Want to Learn</h4>
 <ul align="center" style="list-style-type: none; padding: 0; display: flex; flex-direction: column; align-items: center;">
   <li style="margin-bottom: 10px;">
-    <a href="https://www.metasploit.com/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Metasploit-logo.png" alt="Metasploit" width="40">
-      Metasploit
-    </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Metasploit-logo.png" alt="Metasploit" width="40">
+    Metasploit
   </li>
   <li style="margin-bottom: 10px;">
-    <a href="https://nmap.org/" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Nmap_logo.svg" alt="Nmap" width="40">
-      Nmap
-    </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Nmap_logo.svg" alt="Nmap" width="40">
+    Nmap
   </li>
   <li style="margin-bottom: 10px;">
-    <a href="https://portswigger.net/burp" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Burp_Suite_Logo.png" alt="Burp Suite" width="40">
-      Burp Suite
-    </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Burp_Suite_Logo.png" alt="Burp Suite" width="40">
+    Burp Suite
   </li>
   <li style="margin-bottom: 10px;">
-    <a href="https://tools.kali.org/social-engineering/set" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Social-Engineering-Toolkit.png" alt="SET Toolkit" width="40">
-      SET Toolkit
-    </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Social-Engineering-Toolkit.png" alt="SET Toolkit" width="40">
+    SET Toolkit
   </li>
   <li>
-    <a href="https://github.com/beefproject/beef" target="_blank">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/BeEF_logo.png" alt="BeEF" width="40">
-      BeEF
-    </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/BeEF_logo.png" alt="BeEF" width="40">
+    BeEF
   </li>
 </ul>
+
 
 
 
