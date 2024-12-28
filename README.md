@@ -75,31 +75,34 @@
 
 <div>
  <!-- Herramientas de Pentesting -->
-  <h3>Pentest Tools</h3>
-   <a href="https://www.metasploit.com/" target="_blank">
-    <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="Metasploit">
+<h3>Pentest Tools</h3>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+  <a href="https://www.metasploit.com/" target="_blank">
+    <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="Metasploit" style="width: 50px; height: auto;">
   </a>
   <a href="https://nmap.org/" target="_blank">
-    <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" alt="Nmap">
+    <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" alt="Nmap" style="width: 50px; height: auto;">
   </a>
   <a href="https://portswigger.net/burp" target="_blank">
-    <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burp Suite">
+    <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burp Suite" style="width: 50px; height: auto;">
   </a>
   <a href="https://www.kali.org/tools/wifite/" target="_blank">
-    <img src="https://www.kali.org/tools/wifite/images/wifite-logo.svg" alt="Wifite">
+    <img src="https://www.kali.org/tools/wifite/images/wifite-logo.svg" alt="Wifite" style="width: 50px; height: auto;">
   </a>
   <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="Wireshark">
+    <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="Wireshark" style="width: 50px; height: auto;">
   </a>
   <a href="https://www.aircrack-ng.org/" target="_blank">
-    <img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" alt="Aircrack-ng">
+    <img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" alt="Aircrack-ng" style="width: 50px; height: auto;">
   </a>
   <a href="https://www.paterva.com/web7/" target="_blank">
-    <img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" alt="Maltego">
+    <img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" alt="Maltego" style="width: 50px; height: auto;">
   </a>
   <a href="https://github.com/trustedsec/social-engineer-toolkit" target="_blank">
-    <img src="https://www.kali.org/tools/set/images/set-logo.svg" alt="SET Toolkit">
+    <img src="https://www.kali.org/tools/set/images/set-logo.svg" alt="SET Toolkit" style="width: 50px; height: auto;">
   </a>
+</div>
+
 </div>
 
 
