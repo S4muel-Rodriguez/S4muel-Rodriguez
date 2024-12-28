@@ -102,8 +102,6 @@
       <img src="https://www.kali.org/tools/set/images/set-logo.svg" alt="SET Toolkit" style="width: 50px; height: auto; transition: transform 0.3s; border-radius: 10px;">
     </a>
   </div>
-</div>
-
 <style>
   /* Animación al pasar el mouse */
   a:hover img {
@@ -121,7 +119,7 @@
   }
 </style>
 
-
+</div>
 
 
 <h3 align="center">
