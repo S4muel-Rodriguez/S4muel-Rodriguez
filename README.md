@@ -73,24 +73,30 @@
 </div>
 
 <h4 align="center">Pentesting Tools I Use or Want to Learn</h4>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
+<ul style="list-style-type: none; padding: 0; display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
   <!-- Pentesting Tools -->
-  <a href="https://www.metasploit.com/" target="_blank">
+  <li>
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Metasploit-logo.png" alt="Metasploit" width="48">
-  </a>
-  <a href="https://nmap.org/" target="_blank">
+    <p align="center">Metasploit</p>
+  </li>
+  <li>
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Nmap_logo.svg" alt="Nmap" width="48">
-  </a>
-  <a href="https://portswigger.net/burp" target="_blank">
+    <p align="center">Nmap</p>
+  </li>
+  <li>
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Burp_Suite_Logo.png" alt="Burp Suite" width="48">
-  </a>
-  <a href="https://tools.kali.org/social-engineering/set" target="_blank">
+    <p align="center">Burp Suite</p>
+  </li>
+  <li>
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Social-Engineering-Toolkit.png" alt="SET Toolkit" width="48">
-  </a>
-  <a href="https://github.com/beefproject/beef" target="_blank">
+    <p align="center">SET Toolkit</p>
+  </li>
+  <li>
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/BeEF_logo.png" alt="BeEF" width="48">
-  </a>
-</div>
+    <p align="center">BeEF</p>
+  </li>
+</ul>
+
 
 
 
