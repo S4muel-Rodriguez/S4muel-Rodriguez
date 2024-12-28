@@ -72,6 +72,14 @@
 </div>
 
 
+<h4 align="center">Pentesting Tools I Use or Want to Learn</h4>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/000000/external-hacker-cyber-security-flaticons-lineal-color-flat-icons.png" alt="Metasploit" width="48">
+  <img src="https://img.icons8.com/ios-filled/50/000000/hacker.png" alt="Nmap" width="48">
+  <img src="https://img.icons8.com/ios/50/000000/bug.png" alt="Burp Suite" width="48">
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/50/000000/external-phishing-cyber-security-flaticons-lineal-color-flat-icons.png" alt="SET Toolkit" width="48">
+  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/000000/external-hacking-cyber-security-flaticons-lineal-color-flat-icons.png" alt="BeEF" width="48">
+</div>
 
 
 
