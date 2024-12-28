@@ -71,42 +71,7 @@
   </a>
 </div>
 
-<h4 align="center">Technologies I Work With or Want to Learn</h4>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript">
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python">
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django">
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git">
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub">
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code">
-  </a>
-  <a href="https://www.microsoft.com/en-us/windows" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows">
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux">
-  </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman">
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker">
-  </a>
-</div>
+
 
 
 
