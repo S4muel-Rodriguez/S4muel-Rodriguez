@@ -73,53 +73,55 @@
 
 
 
-<div>
-  <!-- Herramientas de Pentesting -->
-  <h3 style="text-align: center; color: #4CAF50; font-size: 24px; margin-bottom: 20px;">Pentest Tools:</h3>
-  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-    <a href="https://www.metasploit.com/" target="_blank">
-      <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="Metasploit" style="width: 50px; height: auto; transition: transform 0.3s; border-radius: 10px;">
-    </a>
-    <a href="https://nmap.org/" target="_blank">
-      <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" alt="Nmap" style="width: 50px; height: auto; transition: transform 0.3s; border-radius: 10px;">
-    </a>
-    <a href="https://portswigger.net/burp" target="_blank">
-      <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burp Suite" style="width: 50px; height: auto; transition: transform 0.3s; border-radius: 10px;">
-    </a>
-    <a href="https://www.kali.org/tools/wifite/" target="_blank">
-      <img src="https://www.kali.org/tools/wifite/images/wifite-logo.svg" alt="Wifite" style="width: 50px; height: auto; transition: transform 0.3s; border-radius: 10px;">
-    </a>
-    <a href="https://www.wireshark.org/" target="_blank">
-      <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="Wireshark" style="width: 50px; height: auto; transition: transform 0.3s; border-radius: 10px;">
-    </a>
-    <a href="https://www.aircrack-ng.org/" target="_blank">
-      <img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" alt="Aircrack-ng" style="width: 50px; height: auto; transition: transform 0.3s; border-radius: 10px;">
-    </a>
-    <a href="https://www.paterva.com/web7/" target="_blank">
-      <img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" alt="Maltego" style="width: 50px; height: auto; transition: transform 0.3s; border-radius: 10px;">
-    </a>
-    <a href="https://github.com/trustedsec/social-engineer-toolkit" target="_blank">
-      <img src="https://www.kali.org/tools/set/images/set-logo.svg" alt="SET Toolkit" style="width: 50px; height: auto; transition: transform 0.3s; border-radius: 10px;">
-    </a>
-  </div>
 <style>
-  /* Animación al pasar el mouse */
-  a:hover img {
-    transform: scale(1.2); /* Escala la imagen al pasar el ratón */
-  }
-  /* Efecto de sombra para las imágenes */
-  img {
-    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2); /* Sombra sutil */
-    transition: box-shadow 0.3s ease-in-out; /* Transición de la sombra */
-  }
+    /* Animación al pasar el mouse */
+    a:hover img {
+      transform: scale(1.2); /* Escala la imagen al pasar el ratón */
+    }
+    
+    /* Efecto de sombra para las imágenes */
+    img {
+      box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.2); /* Sombra sutil */
+      transition: box-shadow 0.3s ease-in-out; /* Transición de la sombra */
+    }
 
-  /* Cambio de sombra al pasar el ratón */
-  a:hover img {
-    box-shadow: 0px 6px 18px rgba(0, 0, 0, 0.3); /* Aumenta la sombra al hacer hover */
-  }
-</style>
-
-</div>
+    /* Cambio de sombra al pasar el ratón */
+    a:hover img {
+      box-shadow: 0px 6px 18px rgba(0, 0, 0, 0.3); /* Aumenta la sombra al hacer hover */
+    }
+  </style>
+</head>
+<body>
+  <div>
+    <!-- Herramientas de Pentesting -->
+    <h3 style="text-align: center; color: #4CAF50; font-size: 24px; margin-bottom: 20px;">Pentest Tools:</h3>
+    <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
+      <a href="https://www.metasploit.com/" target="_blank">
+        <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="Metasploit" style="width: 50px; height: auto; transition: transform 0.3s; border-radius: 10px;">
+      </a>
+      <a href="https://nmap.org/" target="_blank">
+        <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" alt="Nmap" style="width: 50px; height: auto; transition: transform 0.3s; border-radius: 10px;">
+      </a>
+      <a href="https://portswigger.net/burp" target="_blank">
+        <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burp Suite" style="width: 50px; height: auto; transition: transform 0.3s; border-radius: 10px;">
+      </a>
+      <a href="https://www.kali.org/tools/wifite/" target="_blank">
+        <img src="https://www.kali.org/tools/wifite/images/wifite-logo.svg" alt="Wifite" style="width: 50px; height: auto; transition: transform 0.3s; border-radius: 10px;">
+      </a>
+      <a href="https://www.wireshark.org/" target="_blank">
+        <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="Wireshark" style="width: 50px; height: auto; transition: transform 0.3s; border-radius: 10px;">
+      </a>
+      <a href="https://www.aircrack-ng.org/" target="_blank">
+        <img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" alt="Aircrack-ng" style="width: 50px; height: auto; transition: transform 0.3s; border-radius: 10px;">
+      </a>
+      <a href="https://www.paterva.com/web7/" target="_blank">
+        <img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" alt="Maltego" style="width: 50px; height: auto; transition: transform 0.3s; border-radius: 10px;">
+      </a>
+      <a href="https://github.com/trustedsec/social-engineer-toolkit" target="_blank">
+        <img src="https://www.kali.org/tools/set/images/set-logo.svg" alt="SET Toolkit" style="width: 50px; height: auto; transition: transform 0.3s; border-radius: 10px;">
+      </a>
+    </div>
+  </div>
 
 
 <h3 align="center">
