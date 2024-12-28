@@ -77,28 +77,28 @@
  <!-- Herramientas de Pentesting -->
   <h3>Pentest Tools</h3>
    <a href="https://www.metasploit.com/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/penetration-testing.png" alt="Metasploit">
+    <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="Metasploit">
   </a>
   <a href="https://nmap.org/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/nmap.png" alt="Nmap">
+    <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" alt="Nmap">
   </a>
   <a href="https://portswigger.net/burp" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/bug.png" alt="Burp Suite">
+    <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burp Suite">
   </a>
   <a href="https://www.kali.org/tools/wifite/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/wifi.png" alt="Wifite">
+    <img src="https://www.kali.org/tools/wifite/images/wifite-logo.svg" alt="Wifite">
   </a>
   <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/wireshark.png" alt="Wireshark">
+    <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="Wireshark">
   </a>
   <a href="https://www.aircrack-ng.org/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/wifi.png" alt="Aircrack-ng">
+    <img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" alt="Aircrack-ng">
   </a>
   <a href="https://www.paterva.com/web7/" target="_blank">
     <img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" alt="Maltego">
   </a>
   <a href="https://github.com/trustedsec/social-engineer-toolkit" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/social-media.png" alt="SET Toolkit">
+    <img src="https://www.kali.org/tools/set/images/set-logo.svg" alt="SET Toolkit">
   </a>
 </div>
 
