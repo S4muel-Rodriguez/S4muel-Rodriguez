@@ -36,7 +36,6 @@
 
 <h4 align="center">Technologies I Work With or Want to Learn</h4>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
-  <!-- Technologies -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript">
   </a>
@@ -72,43 +71,39 @@
   </a>
 </div>
 
-
 <h5 align="center">Pentesting Tools</h5>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
   <a href="https://nmap.org/" target="_blank">
-    <img src="https://www.nmap.org/book/images/nmap-logo.png" alt="Nmap" style="max-width: 150px;">
+    <img src="https://www.nmap.org/book/images/nmap-logo.png" alt="Nmap" style="max-width: 150px; max-height: 150px;">
   </a>
   <a href="https://www.metasploit.com/" target="_blank">
-    <img src="https://www.metasploit.com/assets/img/logo.svg" alt="Metasploit" style="max-width: 150px;">
+    <img src="https://www.metasploit.com/assets/img/logo.svg" alt="Metasploit" style="max-width: 150px; max-height: 150px;">
   </a>
   <a href="https://portswigger.net/burp" target="_blank">
-    <img src="https://portswigger.net/themes/bw-2020/assets/img/logo.png" alt="Burp Suite" style="max-width: 150px;">
+    <img src="https://portswigger.net/themes/bw-2020/assets/img/logo.png" alt="Burp Suite" style="max-width: 150px; max-height: 150px;">
   </a>
   <a href="https://wireshark.org/" target="_blank">
-    <img src="https://wireshark.org/images/wslogo.png" alt="Wireshark" style="max-width: 150px;">
+    <img src="https://wireshark.org/images/wslogo.png" alt="Wireshark" style="max-width: 150px; max-height: 150px;">
   </a>
   <a href="https://www.openwall.com/john/" target="_blank">
-    <img src="https://www.openwall.com/images/john-the-ripper-logo.png" alt="John the Ripper" style="max-width: 150px;">
+    <img src="https://www.openwall.com/images/john-the-ripper-logo.png" alt="John the Ripper" style="max-width: 150px; max-height: 150px;">
   </a>
   <a href="https://www.aircrack-ng.org/" target="_blank">
-    <img src="https://www.aircrack-ng.org/images/aircrack-ng-logo.png" alt="Aircrack-ng" style="max-width: 150px;">
+    <img src="https://www.aircrack-ng.org/images/aircrack-ng-logo.png" alt="Aircrack-ng" style="max-width: 150px; max-height: 150px;">
   </a>
   <a href="https://wifite.net/" target="_blank">
-    <img src="https://wifite.net/img/wifite-logo.png" alt="Wifite" style="max-width: 150px;">
+    <img src="https://wifite.net/img/wifite-logo.png" alt="Wifite" style="max-width: 150px; max-height: 150px;">
   </a>
   <a href="https://kismetwireless.net/" target="_blank">
-    <img src="https://kismetwireless.net/images/kismet-logo.png" alt="Kismet" style="max-width: 150px;">
+    <img src="https://kismetwireless.net/images/kismet-logo.png" alt="Kismet" style="max-width: 150px; max-height: 150px;">
   </a>
   <a href="https://reaver-wps.sourceforge.io/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Reaver_logo.svg/220px-Reaver_logo.svg.png" alt="Reaver" style="max-width: 150px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Reaver_logo.svg/220px-Reaver_logo.svg.png" alt="Reaver" style="max-width: 150px; max-height: 150px;">
   </a>
   <a href="https://github.com/fern-wifi/fern-wifi-cracker" target="_blank">
-    <img src="https://raw.githubusercontent.com/fern-wifi/fern-wifi-cracker/master/doc/fern-wifi-cracker.png" alt="Fern Wifi Cracker" style="max-width: 150px;">
+    <img src="https://raw.githubusercontent.com/fern-wifi/fern-wifi-cracker/master/doc/fern-wifi-cracker.png" alt="Fern Wifi Cracker" style="max-width: 150px; max-height: 150px;">
   </a>
 </div>
-
-
-
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Connect with me 🤝
@@ -130,4 +125,5 @@
 <p align="center">
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
 </p>
+
 
