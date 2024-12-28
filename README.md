@@ -76,26 +76,22 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
   <!-- Pentesting Tools -->
   <a href="https://www.metasploit.com/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Metasploit-logo.png" alt="Metasploit" width="40">
-    <span>Metasploit</span>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Metasploit-logo.png" alt="Metasploit" width="50">
   </a>
   <a href="https://nmap.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Nmap_logo.svg" alt="Nmap" width="40">
-    <span>Nmap</span>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Nmap_logo.svg" alt="Nmap" width="50">
   </a>
   <a href="https://portswigger.net/burp" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Burp_Suite_Logo.png" alt="Burp Suite" width="40">
-    <span>Burp Suite</span>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Burp_Suite_Logo.png" alt="Burp Suite" width="50">
   </a>
   <a href="https://tools.kali.org/social-engineering/set" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Social-Engineering-Toolkit.png" alt="SET Toolkit" width="40">
-    <span>SET Toolkit</span>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Social-Engineering-Toolkit.png" alt="SET Toolkit" width="50">
   </a>
   <a href="https://github.com/beefproject/beef" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/BeEF_logo.png" alt="BeEF" width="40">
-    <span>BeEF</span>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/89/BeEF_logo.png" alt="BeEF" width="50">
   </a>
 </div>
+
 
 <h3 align="center">
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Connect with me 🤝
