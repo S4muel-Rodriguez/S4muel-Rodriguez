@@ -75,9 +75,9 @@
 
 <div>
  <!-- Herramientas de Pentesting -->
-  <h5>pentest tools</h5>
-  <a href="https://www.metasploit.com/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/hacker.png" alt="Metasploit">
+  <h3>Pentest Tools</h3>
+   <a href="https://www.metasploit.com/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/000000/penetration-testing.png" alt="Metasploit">
   </a>
   <a href="https://nmap.org/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/nmap.png" alt="Nmap">
@@ -86,7 +86,7 @@
     <img src="https://img.icons8.com/ios-filled/50/000000/bug.png" alt="Burp Suite">
   </a>
   <a href="https://www.kali.org/tools/wifite/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/network.png" alt="Wifite">
+    <img src="https://img.icons8.com/ios-filled/50/000000/wifi.png" alt="Wifite">
   </a>
   <a href="https://www.wireshark.org/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/wireshark.png" alt="Wireshark">
@@ -100,8 +100,6 @@
   <a href="https://github.com/trustedsec/social-engineer-toolkit" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/social-media.png" alt="SET Toolkit">
   </a>
-
-  
 </div>
 
 
