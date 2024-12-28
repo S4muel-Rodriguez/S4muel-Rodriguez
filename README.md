@@ -95,7 +95,7 @@
     <img src="https://img.icons8.com/ios-filled/50/000000/wifi.png" alt="Aircrack-ng">
   </a>
   <a href="https://www.paterva.com/web7/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/000000/analysis.png" alt="Maltego">
+    <img src="https://www.kali.org/tools/maltego/" alt="Maltego">
   </a>
   <a href="https://github.com/trustedsec/social-engineer-toolkit" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/social-media.png" alt="SET Toolkit">
