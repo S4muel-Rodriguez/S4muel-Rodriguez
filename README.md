@@ -117,7 +117,7 @@
   <a href="https://github.com/S4muel-Rodriguez">
     <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub">
   </a>
-  <a href="https://www.instagram.com/s4muel_r0driguez/">
+  <a href="https://www.instagram.com/s4mu.rodriguez/">
     <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram">
   </a>
 </p>
