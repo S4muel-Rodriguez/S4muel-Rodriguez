@@ -8,7 +8,7 @@
   - 👨🏻‍💻🛡️ I like cybersecurity and ethical hacking<br>
   - 💼🤝 I am available to work and learn new technologies and work methodologies<br>
   - 🖧🕵️‍♂️ I am currently learning backend technologies and penetration tools<br>
-  - 💬📲 This is my social network Instagram: <a href="https://www.instagram.com/s4muel_r0driguez/">@s4muel_r0driguez</a><br>
+  - 💬📲 This is my social network Instagram: <a href="https://www.instagram.com/s4mu.rodriguez/">@S4mu.Rodriguez</a><br>
   - ✉️📫 How to reach me: <strong>samurodriguez565@gmail.com</strong>
 </p>
 
