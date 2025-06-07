@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript">
   <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js">
   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20" alt="Django">
   <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git">
   <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub">
   <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown" alt="Markdown">
@@ -44,9 +43,6 @@
   </a>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python">
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/django.png" alt="Django">
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git">
