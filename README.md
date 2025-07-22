@@ -4,22 +4,11 @@
 </a>
 
 <p align="center">
-  - 💻🌐 Estudiante de desarrollo web y ciberseguridad<br>
-  - 👨🏻‍💻🛡️ Enfocado en hacking ético y backend<br>
+  - 💻🌐 Desarrollador y ciberseguridad<br>
+  - 👨🏻‍💻🛡️ Enfocado en hacking ético<br>
   - 💼🤝 Disponible para trabajar y aprender<br>
   - 📲 Instagram: <a href="https://www.instagram.com/s4mu.rodriguez/">@S4mu.Rodriguez</a><br>
   - ✉️📫 Email: <strong>samurodriguez565@gmail.com</strong>
-</p>
-
-### 🛠 &nbsp;Soft Skills and Technologies
-<p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js">
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="Git">
-  <img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="GitHub">
-  <img src="https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown" alt="Markdown">
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="VS Code">
 </p>
 
 <details>
