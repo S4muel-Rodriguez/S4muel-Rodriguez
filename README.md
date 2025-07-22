@@ -21,7 +21,7 @@
   <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=S4muel-Rodriguez&show_icons=true&theme=dark&locale=en" alt="S4muel-Rodriguez" /></p>
 </details>
 
-<h4 align="center">Technologies I Work With </h4>
+<h4 align="center">Technologies I Work With</h4>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript">
@@ -52,6 +52,15 @@
   </a>
   <a href="https://www.docker.com/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker">
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/4a90e2/sql.png" alt="SQL">
+  </a>
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS">
+  </a>
+  <a href="https://en.wikipedia.org/wiki/Computer_network" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/network.png" alt="Networking & Protocols">
   </a>
 </div>
 
