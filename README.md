@@ -4,12 +4,11 @@
 </a>
 
 <p align="center">
-  - 💻🌐 I’m a web development student<br>
-  - 👨🏻‍💻🛡️ I like cybersecurity and ethical hacking<br>
-  - 💼🤝 I am available to work and learn new technologies and work methodologies<br>
-  - 🖧🕵️‍♂️ I am currently learning backend technologies and penetration tools<br>
-  - 💬📲 This is my social network Instagram: <a href="https://www.instagram.com/s4mu.rodriguez/">@S4mu.Rodriguez</a><br>
-  - ✉️📫 How to reach me: <strong>samurodriguez565@gmail.com</strong>
+  - 💻🌐 Estudiante de desarrollo web y ciberseguridad<br>
+  - 👨🏻‍💻🛡️ Enfocado en hacking ético y backend<br>
+  - 💼🤝 Disponible para trabajar y aprender<br>
+  - 📲 Instagram: <a href="https://www.instagram.com/s4mu.rodriguez/">@S4mu.Rodriguez</a><br>
+  - ✉️📫 Email: <strong>samurodriguez565@gmail.com</strong>
 </p>
 
 ### 🛠 &nbsp;Soft Skills and Technologies
