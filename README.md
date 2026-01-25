@@ -4,8 +4,8 @@
 </a>
 
 <p align="center">
-  - 💻🌐 Desarrollador y ciberseguridad<br>
-  - 👨🏻‍💻🛡️ Enfocado en hacking ético<br>
+  - 💻🌐 Desarrollador Web y Analista en Ciberseguridad<br>
+  - 👨🏻‍💻🛡️ Enfocado en Pentesting<br>
   - 💼🤝 Disponible para trabajar y aprender<br>
   - 📲 Instagram: <a href="https://www.instagram.com/s4mu.rodriguez/">@S4mu.Rodriguez</a><br>
   - ✉️📫 Email: <strong>samurodriguez565@gmail.com</strong>
