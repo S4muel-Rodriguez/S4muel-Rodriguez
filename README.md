@@ -50,13 +50,36 @@ Aplicando metodologías reales (OWASP Top 10) y prácticas **secure-by-design** 
 
 ## 🚀 Experience
 
-### 💼 Freelance Cybersecurity & Web Developer  
-📅 2024 — Present  
+### 💼 Desarrollador de páginas web autónomo  
+**Self Employed · Profesional independiente**  
+📅 jul. 2025 - actualidad  
+📍 Provincia de Buenos Aires, Argentina · En remoto  
 
-- Evaluación de vulnerabilidades en aplicaciones web  
-- Pentesting basado en OWASP Top 10  
-- Desarrollo fullstack (React, Node.js, SQL)  
-- Automatización con IA (Claude, Ollama, n8n)  
+🚀 Desarrollo Web & Soluciones Digitales  
+
+✨ Desarrollo de landing pages modernas enfocadas en conversión  
+🧠 Creación de productos SaaS propios  
+🎨 Diseño UI/UX optimizado para experiencia de usuario  
+⚙️ Implementación de soluciones web para negocios  
+
+---
+
+📌 **Proyectos Destacados:**
+
+💄 **Handerly Beauty**  
+→ Web empresarial con enfoque estética capilar y venta de productos  
+
+💉 **Sistema de Stock de Vacunas**  
+→ Plataforma de gestión interna y control de inventario  
+
+🛒 **Buyflow**  
+→ Sistema de gestión de compras  
+
+📈 **LamakinaStrategy**  
+→ Plataforma orientada a estrategia de trading  
+
+🛡️ **CyberShield**  
+→ Solución de ciberseguridad impulsada por IA  
 
 ---
 
@@ -100,8 +123,16 @@ Aplicando metodologías reales (OWASP Top 10) y prácticas **secure-by-design** 
 <img src="https://skillicons.dev/icons?i=aws" />
 </a>
 
-<a href="https://www.w3schools.com/sql/">
-<img src="https://img.icons8.com/ios-filled/50/ffffff/sql.png" width="48"/>
+<a href="https://dev.mysql.com/downloads/installer/">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</a>
+
+<a href="https://www.postman.com/">
+<img src="https://skillicons.dev/icons?i=postman" />
+</a>
+
+<a href="https://n8n.io/">
+<img src="https://skillicons.dev/icons?i=n8n" />
 </a>
 
 </p>
@@ -156,13 +187,13 @@ Aplicando metodologías reales (OWASP Top 10) y prácticas **secure-by-design** 
 
 ---
 
-## 🧪 Security Labs & Pentesting
+## ⚙️ AI, Automation & Offensive Security
 
-Metodología aplicada:
-
-Recon → Enumeration → Exploitation → Reporting  
-
-Basado en OWASP Top 10 con simulaciones tipo SOC y reportes profesionales.
+- Automatización con n8n  
+- Integración de LLMs (Codex, Claude, Ollama)  
+- Prompt Engineering aplicado a seguridad  
+- Generación automática de reportes  
+- Recon y triage automatizado  
 
 ---
 
@@ -180,15 +211,6 @@ Basado en OWASP Top 10 con simulaciones tipo SOC y reportes profesionales.
 
 - https://www.linkedin.com/posts/samu-rodr%C3%ADguez-77b24325a_cybersecurity-pentesting-ethicalhacking-activity-7447699313549516801-tOFI  
 - https://www.linkedin.com/posts/samu-rodr%C3%ADguez-77b24325a_cybersecurity-pentesting-kalilinux-activity-7446741565152133120-3Vh7  
-
----
-
-## ⚙️ AI, Automation & Offensive Security
-
-- Automatización con n8n  
-- Integración de LLMs en pentesting  
-- Generación automática de reportes  
-- Recon y triage automatizado  
 
 ---
 
