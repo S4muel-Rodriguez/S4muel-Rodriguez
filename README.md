@@ -1,123 +1,174 @@
-<h1 align="center">Hi, I'm Samu <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<a target="_blank" align="center">
-  <img align="right" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+<h1 align="center">Samu Rodriguez</h1>
+<h3 align="center">🚀 Web Developer | 🛡️ Cybersecurity Analyst | Pentester</h3>
+
+<p align="center">
+  <a href="https://linktr.ee/S4muRodriguez">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/samu-rodr%C3%ADguez-77b24325a/">LinkedIn</a> •
+  <a href="mailto:samurodriguez565@gmail.com">Email</a>
+</p>
+
+---
+
+## 🖥️ Terminal Simulation
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=22&center=true&vCenter=true&width=800&lines=Initializing+system...;Loading+Pentesting+Modules...;Scanning+Targets...;Exploiting+Vulnerabilities...;Access+Granted+✔;Welcome+to+Samu+Rodriguez+Profile" />
+</p>
+
+---
+
+## 🧠 About Me
+
+Soy desarrollador web y analista en ciberseguridad enfocado en pentesting real y creación de herramientas propias.
+
+- 🛠️ Desarrollo de productos SaaS
+- 🛡️ Pentesting & seguridad ofensiva
+- 🤖 Automatización con IA aplicada a ciberseguridad
+- 📍 Buenos Aires, Argentina
+
+---
+
+## 🚀 Experience
+
+### 💼 Freelance Web Developer & Cybersecurity
+📅 2025 - Present  
+
+- Desarrollo de soluciones web enfocadas en negocio  
+- Creación de SaaS propios  
+- Implementación de sistemas internos  
+- Testing de seguridad en aplicaciones  
+
+#### Proyectos:
+
+- 💄 Handerly Beauty → Web + eCommerce  
+- 💉 Sistema de Stock de Vacunas → Gestión interna  
+- 🛒 Buyflow → Sistema de compras  
+- 📈 LamakinaStrategy → Plataforma trading  
+- 🛡️ CyberShield → IA + Ciberseguridad  
+
+---
+
+## ⚡ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,git,github,vscode,linux,docker,mysql,aws" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+---
+
+## 🛠️ Pentesting Toolkit
+
+<p align="center">
+
+<a href="https://www.metasploit.com/">
+<img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="50"/>
 </a>
 
-<p align="center">
-  - 💻🌐 Desarrollador Web y Analista en Ciberseguridad<br>
-  - 👨🏻‍💻🛡️ Enfocado en Pentesting<br>
-  - 💼🤝 Disponible para trabajar y aprender<br>
-  - 📲 Instagram: <a href="https://www.instagram.com/s4mu.rodriguez/">@S4mu.Rodriguez</a><br>
-  - ✉️📫 Email: <strong>samurodriguez565@gmail.com</strong>
+<a href="https://nmap.org/">
+<img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="50"/>
+</a>
+
+<a href="https://portswigger.net/burp">
+<img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="50"/>
+</a>
+
+<a href="https://www.wireshark.org/">
+<img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" width="50"/>
+</a>
+
+<a href="https://www.aircrack-ng.org/">
+<img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" width="50"/>
+</a>
+
+<a href="https://www.kali.org/tools/wifite/">
+<img src="https://www.kali.org/tools/wifite/images/wifite-logo.svg" width="50"/>
+</a>
+
+<a href="https://www.paterva.com/web7/">
+<img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" width="50"/>
+</a>
+
+<a href="https://github.com/trustedsec/social-engineer-toolkit">
+<img src="https://www.kali.org/tools/set/images/set-logo.svg" width="50"/>
+</a>
+
 </p>
 
-<details>
-  <summary><h3>💻 GitHub Profile Stats</h3></summary>
-  <h3>My GitHub Stats</h3>
-  <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1277312/screenshots/14733298/media/39b1045e593737587dd60e42c8422d1f.gif">
-  <br>
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=S4muel-Rodriguez&show_icons=true&theme=dark&locale=en&layout=compact" alt="S4muel-Rodriguez" /></p>
-  <br><br><br><br><br><br><br>
-  <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=S4muel-Rodriguez&show_icons=true&theme=dark&locale=en" alt="S4muel-Rodriguez" /></p>
-</details>
+---
 
-<h4 align="center">Technologies I Work With</h4>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px; margin-top: 10px;">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript">
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js">
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python">
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git">
-  </a>
-  <a href="https://github.com/" target="_blank">
-    <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub">
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code">
-  </a>
-  <a href="https://www.microsoft.com/en-us/windows" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows">
-  </a>
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="Linux">
-  </a>
-  <a href="https://www.postman.com/" target="_blank">
-    <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman">
-  </a>
-  <a href="https://www.docker.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/docker.png" alt="Docker">
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/4a90e2/sql.png" alt="SQL">
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS">
-  </a>
-  <a href="https://en.wikipedia.org/wiki/Computer_network" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/network.png" alt="Networking & Protocols">
-  </a>
-</div>
+## 🧠 Real Pentesting (No humo)
 
+🔗 Proyecto IA aplicado a Pentesting:  
+👉 https://github.com/S4muel-Rodriguez/ProyectoIA-Web-Pentest  
 
+🔗 Backend Security Project:  
+👉 https://github.com/S4muel-Rodriguez/Proyectback3  
 
-<div>
- <!-- Herramientas de Pentesting -->
-<h3>Pentest Tools:</h3>
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 15px;">
-  <a href="https://www.metasploit.com/" target="_blank">
-    <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" alt="Metasploit" style="width: 50px; height: auto;">
-  </a>
-  <a href="https://nmap.org/" target="_blank">
-    <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" alt="Nmap" style="width: 50px; height: auto;">
-  </a>
-  <a href="https://portswigger.net/burp" target="_blank">
-    <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" alt="Burp Suite" style="width: 50px; height: auto;">
-  </a>
-  <a href="https://www.kali.org/tools/wifite/" target="_blank">
-    <img src="https://www.kali.org/tools/wifite/images/wifite-logo.svg" alt="Wifite" style="width: 50px; height: auto;">
-  </a>
-  <a href="https://www.wireshark.org/" target="_blank">
-    <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" alt="Wireshark" style="width: 50px; height: auto;">
-  </a>
-  <a href="https://www.aircrack-ng.org/" target="_blank">
-    <img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" alt="Aircrack-ng" style="width: 50px; height: auto;">
-  </a>
-  <a href="https://www.paterva.com/web7/" target="_blank">
-    <img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" alt="Maltego" style="width: 50px; height: auto;">
-  </a>
-  <a href="https://github.com/trustedsec/social-engineer-toolkit" target="_blank">
-    <img src="https://www.kali.org/tools/set/images/set-logo.svg" alt="SET Toolkit" style="width: 50px; height: auto;">
-  </a>
-</div>
+📡 Actividad real documentada:
 
-</div>
+- https://www.linkedin.com/posts/samu-rodr%C3%ADguez-77b24325a_cybersecurity-pentesting-ethicalhacking-activity-7447699313549516801-tOFI  
+- https://www.linkedin.com/posts/samu-rodr%C3%ADguez-77b24325a_cybersecurity-pentesting-kalilinux-activity-7446741565152133120-3Vh7  
 
+---
 
-<h3 align="center">
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Connect with me 🤝
-</h3>
+## 📊 GitHub Analytics (Live)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/samu-rodr%C3%ADguez-77b24325a/">
-    <img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/S4muel-Rodriguez">
-    <img src="https://img.icons8.com/doodle/40/000000/github--v1.png" alt="GitHub">
-  </a>
-  <a href="https://www.instagram.com/s4mu.rodriguez/">
-    <img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png" alt="Instagram">
-  </a>
+<img src="https://github-readme-stats.vercel.app/api?username=S4muel-Rodriguez&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S4muel-Rodriguez&layout=compact&theme=tokyonight" />
 </p>
 
-## 🐍 A Snake Eating my Contributions Graph
+---
+
+## 🔥 Activity Graph
+
 <p align="center">
-  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake Game"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=S4muel-Rodriguez&theme=tokyo-night" />
 </p>
 
+---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌐 Portfolio (Auto Connected)
+
+👉 https://s4muel-rodriguez.github.io/website-portfolio/
+
+---
+
+## 🎯 Current Focus
+
+- 🛡️ Pentesting real-world  
+- 🤖 Automatización con IA  
+- 🧠 OSINT tools  
+- 🚀 Escalar productos SaaS  
+
+---
+
+## 📫 Contact
+
+<p align="center">
+<a href="https://www.linkedin.com/in/samu-rodr%C3%ADguez-77b24325a/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+<a href="https://github.com/S4muel-Rodriguez">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+<a href="https://www.instagram.com/s4mu.rodriguez/">
+<img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+</p>
