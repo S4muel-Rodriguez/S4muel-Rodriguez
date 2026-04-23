@@ -15,6 +15,14 @@
 
 ---
 
+## 🖥️ Terminal Simulation
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=22&center=true&vCenter=true&width=800&lines=Initializing+Security+Environment...;Loading+Pentesting+Modules...;Reconnaissance+%26+Enumeration...;Exploitation+Phase...;Generating+Report...;Access+Granted+✔" />
+</p>
+
+---
+
 ## 🧠 About Me
 
 Web Developer & Cybersecurity Analyst focused on **pentesting, fullstack development, and AI-driven automation**.
@@ -36,7 +44,7 @@ Cybersecurity-focused professional with hands-on experience in:
 - Fullstack Development  
 - AI-Augmented Security Workflows  
 
-Applying real-world methodologies (**OWASP Top 10**) and **secure-by-design** practices with professional reporting.
+Applying real-world methodologies (**OWASP Top 10**) and secure-by-design practices.
 
 ---
 
@@ -47,8 +55,6 @@ Applying real-world methodologies (**OWASP Top 10**) and **secure-by-design** pr
 📅 Jul 2025 – Present  
 📍 Remote — Buenos Aires, Argentina  
 
-🚀 Web Development & Digital Solutions  
-
 - High-conversion landing pages  
 - SaaS product development  
 - UI/UX optimized design  
@@ -56,82 +62,30 @@ Applying real-world methodologies (**OWASP Top 10**) and **secure-by-design** pr
 
 ---
 
-📌 **Featured Projects**
-
-💄 Handerly Beauty → Business website (beauty & e-commerce)  
-💉 Vaccine Stock System → Internal inventory platform  
-🛒 Buyflow → Purchase management system  
-📈 LamakinaStrategy → Trading strategy platform  
-🛡️ CyberShield → AI-powered cybersecurity solution  
-
----
-
 ## ⚡ Tech Stack
 
 <p align="center">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-<img src="https://skillicons.dev/icons?i=js" />
-</a>
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,git,github,vscode,linux,docker,aws,mysql,postman" />
 
-<a href="https://nodejs.org/">
-<img src="https://skillicons.dev/icons?i=nodejs" />
-</a>
-
-<a href="https://www.python.org/">
-<img src="https://skillicons.dev/icons?i=python" />
-</a>
-
-<a href="https://git-scm.com/">
-<img src="https://skillicons.dev/icons?i=git" />
-</a>
-
-<a href="https://github.com/">
-<img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-<a href="https://code.visualstudio.com/">
-<img src="https://skillicons.dev/icons?i=vscode" />
-</a>
-
-<a href="https://www.linux.org/">
-<img src="https://skillicons.dev/icons?i=linux" />
-</a>
-
-<a href="https://www.docker.com/">
-<img src="https://skillicons.dev/icons?i=docker" />
-</a>
-
-<a href="https://aws.amazon.com/">
-<img src="https://skillicons.dev/icons?i=aws" />
-</a>
-
-<a href="https://dev.mysql.com/downloads/installer/">
-<img src="https://skillicons.dev/icons?i=mysql" />
-</a>
-
-<a href="https://www.postman.com/">
-<img src="https://skillicons.dev/icons?i=postman" />
-</a>
+<br><br>
 
 <a href="https://n8n.io/">
-<img src="https://cdn.worldvectorlogo.com/logos/n8n.svg" width="48"/>
+<img src="https://img.icons8.com/color/48/workflow.png" title="n8n"/>
 </a>
 
-<a href="#">
-<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" title="Prompt Engineering"/>
-</a>
+<img src="https://img.icons8.com/color/48/artificial-intelligence.png" title="Prompt Engineering"/>
 
 <a href="https://ollama.com/">
-<img src="https://ollama.com/public/ollama.png" width="48"/>
+<img src="https://img.icons8.com/ios-filled/50/ffffff/robot-2.png" title="Ollama"/>
 </a>
 
 <a href="https://openai.com/">
-<img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="48" title="Codex"/>
+<img src="https://img.icons8.com/ios-filled/50/ffffff/code.png" title="OpenAI Codex"/>
 </a>
 
 <a href="https://www.anthropic.com/">
-<img src="https://cdn.worldvectorlogo.com/logos/anthropic.svg" width="48" title="Claude"/>
+<img src="https://img.icons8.com/ios-filled/50/ffffff/artificial-intelligence.png" title="Claude"/>
 </a>
 
 </p>
@@ -151,35 +105,31 @@ Applying real-world methodologies (**OWASP Top 10**) and **secure-by-design** pr
 </a>
 
 <a href="https://portswigger.net/burp">
-<img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="45"/>
+<img src="https://img.icons8.com/color/48/burp-suite.png" title="Burp Suite"/>
 </a>
 
 <a href="https://nmap.org/">
-<img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="45"/>
+<img src="https://img.icons8.com/color/48/network-card.png" title="Nmap"/>
 </a>
 
 <a href="https://www.metasploit.com/">
-<img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="45"/>
+<img src="https://img.icons8.com/color/48/hacker.png" title="Metasploit"/>
 </a>
 
 <a href="https://www.wireshark.org/">
-<img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" width="45"/>
+<img src="https://img.icons8.com/color/48/wireshark.png"/>
 </a>
 
 <a href="https://www.aircrack-ng.org/">
-<img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" width="45"/>
-</a>
-
-<a href="https://www.kali.org/tools/wifite/">
-<img src="https://www.kali.org/tools/wifite/images/wifite-logo.svg" width="45"/>
+<img src="https://img.icons8.com/color/48/wifi.png" title="Aircrack-ng"/>
 </a>
 
 <a href="https://www.paterva.com/web7/">
-<img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" width="45"/>
+<img src="https://img.icons8.com/color/48/graph.png" title="Maltego"/>
 </a>
 
 <a href="https://github.com/trustedsec/social-engineer-toolkit">
-<img src="https://www.kali.org/tools/set/images/set-logo.svg" width="45"/>
+<img src="https://img.icons8.com/color/48/social-network.png" title="SET Toolkit"/>
 </a>
 
 <a href="https://www.netacad.com/courses/packet-tracer">
@@ -199,15 +149,15 @@ Applying real-world methodologies (**OWASP Top 10**) and **secure-by-design** pr
 </a>
 
 <a href="https://github.com/S4muel-Rodriguez/Proyectback3">
-<img src="https://img.shields.io/badge/⚙️%20Backend%20%26%20Security-000?style=for-the-badge&logo=github">
+<img src="https://img.shields.io/badge/⚙️%20Backend%20Security-000?style=for-the-badge&logo=github">
 </a>
 
 <a href="https://www.linkedin.com/posts/samu-rodr%C3%ADguez-77b24325a_cybersecurity-pentesting-ethicalhacking-activity-7447699313549516801-tOFI">
-<img src="https://img.shields.io/badge/📊%20Pentesting%20Automation%20Post-0077B5?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/📊%20Pentesting%20Automation-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
 <a href="https://www.linkedin.com/posts/samu-rodr%C3%ADguez-77b24325a_cybersecurity-pentesting-kalilinux-activity-7446741565152133120-3Vh7">
-<img src="https://img.shields.io/badge/🛡️%20Kali%20Pentesting%20Post-0077B5?style=for-the-badge&logo=linkedin">
+<img src="https://img.shields.io/badge/🛡️%20Kali%20Pentesting-0A66C2?style=for-the-badge&logo=linkedin">
 </a>
 
 </p>
@@ -218,13 +168,13 @@ Applying real-world methodologies (**OWASP Top 10**) and **secure-by-design** pr
 
 - n8n Automation Workflows  
 - LLM Integration (Ollama, Codex, Claude)  
-- Prompt Engineering for Security  
+- Prompt Engineering  
 - Automated Reporting  
 - Recon & Triage Automation  
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education & Certifications (Completed)
 
 - Ethical Hacking Expert — UTN (2025–2026)  
 - Advanced Ethical Hacking — Udemy  
