@@ -1,5 +1,5 @@
-<h1 align="center">Samu Rodriguez</h1>
-<h3 align="center">🚀 Web Developer | 🛡️ Cybersecurity Analyst | Pentester</h3>
+<h1 align="center">Samuel Rodriguez</h1>
+<h3 align="center">🛡️ Cybersecurity Analyst | Ethical Hacking | Fullstack Developer | AI-Augmented Security</h3>
 
 <p align="center">
   <a href="https://linktr.ee/S4muRodriguez">
@@ -18,31 +18,45 @@
 ## 🖥️ Terminal Simulation
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=22&center=true&vCenter=true&width=800&lines=Initializing+system...;Loading+Pentesting+Modules...;Scanning+Targets...;Exploiting+Vulnerabilities...;Access+Granted+✔;Welcome+to+Samu+Rodriguez" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=22&center=true&vCenter=true&width=800&lines=Initializing+Security+Environment...;Loading+Pentesting+Modules...;Reconnaissance+%26+Enumeration...;Exploitation+Phase...;Generating+Report...;Access+Granted+✔" />
 </p>
 
 ---
 
 ## 🧠 About Me
 
-Desarrollador web y analista en ciberseguridad enfocado en pentesting real y automatización con IA.
+Desarrollador web y analista en ciberseguridad enfocado en **pentesting, desarrollo fullstack y automatización con IA**.
 
 - 🛠️ Desarrollo de SaaS  
-- 🛡️ Seguridad ofensiva  
-- 🤖 Automatización aplicada a hacking ético  
+- 🛡️ Seguridad ofensiva (Pentesting)  
+- 🤖 Automatización con IA aplicada a ciberseguridad  
 - 📍 Buenos Aires, Argentina  
+
+---
+
+## 🧠 Professional Summary
+
+Cybersecurity-focused professional with hands-on experience in:
+
+- Ethical Hacking & Pentesting  
+- Vulnerability Assessment  
+- Threat Analysis  
+- Fullstack Development  
+- AI-Augmented Security Workflows  
+
+Aplicando metodologías reales (OWASP Top 10) y prácticas **secure-by-design** con reporting técnico profesional.
 
 ---
 
 ## 🚀 Experience
 
-### 💼 Freelance Web Developer & Cybersecurity
-📅 2025 - Present  
+### 💼 Freelance Cybersecurity & Web Developer  
+📅 2024 — Present  
 
-- Desarrollo de soluciones web reales  
-- Creación de SaaS  
-- Implementación de sistemas internos  
-- Testing de seguridad  
+- Evaluación de vulnerabilidades en aplicaciones web  
+- Pentesting basado en OWASP Top 10  
+- Desarrollo fullstack (React, Node.js, SQL)  
+- Automatización con IA (Claude, Ollama, n8n)  
 
 ---
 
@@ -98,48 +112,66 @@ Desarrollador web y analista en ciberseguridad enfocado en pentesting real y aut
 
 <p align="center">
 
-<a href="https://www.metasploit.com/">
-<img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="50"/>
+<a href="https://www.kali.org/">
+<img src="https://img.icons8.com/color/48/kali-linux.png"/>
 </a>
 
-<a href="https://nmap.org/">
-<img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="50"/>
+<a href="https://ubuntu.com/">
+<img src="https://img.icons8.com/color/48/ubuntu--v1.png"/>
 </a>
 
 <a href="https://portswigger.net/burp">
-<img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="50"/>
+<img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="45"/>
+</a>
+
+<a href="https://nmap.org/">
+<img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="45"/>
+</a>
+
+<a href="https://www.metasploit.com/">
+<img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="45"/>
 </a>
 
 <a href="https://www.wireshark.org/">
-<img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" width="50"/>
+<img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" width="45"/>
 </a>
 
 <a href="https://www.aircrack-ng.org/">
-<img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" width="50"/>
+<img src="https://www.kali.org/tools/aircrack-ng/images/aircrack-ng-logo.svg" width="45"/>
 </a>
 
 <a href="https://www.kali.org/tools/wifite/">
-<img src="https://www.kali.org/tools/wifite/images/wifite-logo.svg" width="50"/>
+<img src="https://www.kali.org/tools/wifite/images/wifite-logo.svg" width="45"/>
 </a>
 
 <a href="https://www.paterva.com/web7/">
-<img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" width="50"/>
+<img src="https://www.kali.org/tools/maltego/images/maltego-logo.svg" width="45"/>
 </a>
 
 <a href="https://github.com/trustedsec/social-engineer-toolkit">
-<img src="https://www.kali.org/tools/set/images/set-logo.svg" width="50"/>
+<img src="https://www.kali.org/tools/set/images/set-logo.svg" width="45"/>
 </a>
 
 </p>
 
 ---
 
+## 🧪 Security Labs & Pentesting
+
+Metodología aplicada:
+
+Recon → Enumeration → Exploitation → Reporting  
+
+Basado en OWASP Top 10 con simulaciones tipo SOC y reportes profesionales.
+
+---
+
 ## 🧠 Proyecto Pentesting y Desarrollo
 
-🔗 IA aplicada a Pentesting  
+🔗 IA aplicada a seguridad ofensiva  
 👉 https://github.com/S4muel-Rodriguez/ProyectoIA-Web-Pentest  
 
-🔗 Backend Security  
+🔗 Backend & seguridad  
 👉 https://github.com/S4muel-Rodriguez/Proyectback3  
 
 ---
@@ -148,6 +180,24 @@ Desarrollador web y analista en ciberseguridad enfocado en pentesting real y aut
 
 - https://www.linkedin.com/posts/samu-rodr%C3%ADguez-77b24325a_cybersecurity-pentesting-ethicalhacking-activity-7447699313549516801-tOFI  
 - https://www.linkedin.com/posts/samu-rodr%C3%ADguez-77b24325a_cybersecurity-pentesting-kalilinux-activity-7446741565152133120-3Vh7  
+
+---
+
+## ⚙️ AI, Automation & Offensive Security
+
+- Automatización con n8n  
+- Integración de LLMs en pentesting  
+- Generación automática de reportes  
+- Recon y triage automatizado  
+
+---
+
+## 🎓 Education & Certifications
+
+- Ethical Hacking Expert — UTN (2025–2026)  
+- Advanced Ethical Hacking — Udemy  
+- Cybersecurity — Coderhouse  
+- Fullstack Development — Coderhouse  
 
 ---
 
@@ -178,7 +228,8 @@ Desarrollador web y analista en ciberseguridad enfocado en pentesting real y aut
 
 ## 🎯 Current Focus
 
-- 🛡️ Pentesting real  
-- 🤖 Automatización con IA  
-- 🧠 OSINT tools  
-- 🚀 SaaS  
+- Junior Pentester  
+- SOC Analyst (Jr)  
+- AppSec  
+- AI-Augmented Security  
+- OSINT & Automation  
