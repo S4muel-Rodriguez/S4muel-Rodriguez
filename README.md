@@ -219,7 +219,9 @@ Aplicando metodologías reales (OWASP Top 10) y prácticas **secure-by-design** 
 </a>
 
 </p>
+
 ---
+
 ## ⚙️ AI, Automation & Offensive Security
 
 - n8n Automation Workflows  
