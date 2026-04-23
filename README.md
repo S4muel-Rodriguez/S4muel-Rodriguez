@@ -66,7 +66,7 @@ Aplicando metodologías reales (OWASP Top 10) y prácticas **secure-by-design** 
 
 📌 **Proyectos Destacados:**
 
-💄 **Handerly Beauty**  
+🛍️ **Handerly Beauty**  
 → Web empresarial con enfoque estética capilar y venta de productos  
 
 💉 **Sistema de Stock de Vacunas**  
@@ -131,11 +131,21 @@ Aplicando metodologías reales (OWASP Top 10) y prácticas **secure-by-design** 
 <img src="https://skillicons.dev/icons?i=postman" />
 </a>
 
-<a href="https://n8n.io/">
-<img src="https://skillicons.dev/icons?i=n8n" />
+<a href="#">
+<img src="https://img.icons8.com/fluency/48/artificial-intelligence.png" title="Prompt Engineering"/>
+</a>
+
+<a href="https://ollama.com/">
+<img src="https://ollama.com/public/ollama.png" width="48"/>
+</a>
+
+<a href="https://openai.com/">
+<img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" width="48" title="Codex"/>
 </a>
 
 </p>
+
+
 
 ---
 
@@ -185,42 +195,45 @@ Aplicando metodologías reales (OWASP Top 10) y prácticas **secure-by-design** 
 
 </p>
 
+
 ---
 
+## 🚀 Projects & Content
+
+<p align="center">
+
+<a href="https://github.com/S4muel-Rodriguez/ProyectoIA-Web-Pentest">
+<img src="https://img.shields.io/badge/🔐%20AI%20Pentesting%20Project-000?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://github.com/S4muel-Rodriguez/Proyectback3">
+<img src="https://img.shields.io/badge/⚙️%20Backend%20%26%20Security-000?style=for-the-badge&logo=github">
+</a>
+
+<a href="https://www.linkedin.com/posts/samu-rodr%C3%ADguez-77b24325a_cybersecurity-pentesting-ethicalhacking-activity-7447699313549516801-tOFI">
+<img src="https://img.shields.io/badge/📊%20Pentesting%20Automation%20Post-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://www.linkedin.com/posts/samu-rodr%C3%ADguez-77b24325a_cybersecurity-pentesting-kalilinux-activity-7446741565152133120-3Vh7">
+<img src="https://img.shields.io/badge/🛡️%20Kali%20Pentesting%20Post-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+</p>
+---
 ## ⚙️ AI, Automation & Offensive Security
 
-- Automatización con n8n  
-- Integración de LLMs (Codex, Claude, Ollama)  
-- Prompt Engineering aplicado a seguridad  
-- Generación automática de reportes  
-- Recon y triage automatizado  
-
+- n8n Automation Workflows  
+- LLM Integration (Ollama, Codex, Claude)  
+- Prompt Engineering for Security  
+- Automated Reporting  
+- Recon & Triage Automation  
 ---
-
-## 🧠 Proyecto Pentesting y Desarrollo
-
-🔗 IA aplicada a seguridad ofensiva  
-👉 https://github.com/S4muel-Rodriguez/ProyectoIA-Web-Pentest  
-
-🔗 Backend & seguridad  
-👉 https://github.com/S4muel-Rodriguez/Proyectback3  
-
----
-
-## 🤖 Documentación Pentesting Automatizado con IA
-
-- https://www.linkedin.com/posts/samu-rodr%C3%ADguez-77b24325a_cybersecurity-pentesting-ethicalhacking-activity-7447699313549516801-tOFI  
-- https://www.linkedin.com/posts/samu-rodr%C3%ADguez-77b24325a_cybersecurity-pentesting-kalilinux-activity-7446741565152133120-3Vh7  
-
----
-
-## 🎓 Education & Certifications
+## 🎓 Education & Certifications (Completed)
 
 - Ethical Hacking Expert — UTN (2025–2026)  
 - Advanced Ethical Hacking — Udemy  
 - Cybersecurity — Coderhouse  
 - Fullstack Development — Coderhouse  
-
 ---
 
 ## 📊 GitHub Analytics
